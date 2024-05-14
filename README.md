@@ -1,13 +1,6 @@
 # SQL_Roadmap
 "SQL, short for Structured Query Language, stands as the backbone of modern data management systems, empowering users to store, manipulate, and extract insights from vast datasets. Mastery of SQL is indispensable for data analysts, as it serves as the primary vehicle for querying, filtering, and comprehensively analyzing data. By wielding SQL, analysts can efficiently navigate through complex datasets, perform seamless data joins, and derive actionable insights that drive informed decision-making."
 
-Khan Academy — Intro to SQL: Querying and Managing Data
-Codecademy - Learn SQL
-Danny Ma 8-Week SQL Challenge
-Kaggle - Intro to SQL
-SQL course
-edX All SQL Courses
-Tutorials
 
 30-day Roadmap plan for SQL covers beginner, intermediate, and advanced topics 👇
 Week 1: Beginner Level
